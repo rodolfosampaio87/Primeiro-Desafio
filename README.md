@@ -1,2 +1,5 @@
 # Primeiro-Desafio
-Criação do primeiro desagio Dio
+Realização do primeiro Desafio da Plataforma DIO
+
+
+TQI Fullstack Developer
